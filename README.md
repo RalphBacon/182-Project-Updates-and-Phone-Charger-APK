@@ -1,4 +1,4 @@
-#182 Project Updates and Smart Phone Charger APK
+# #182 Project Updates and Smart Phone Charger APK
 ### A general catch up on all things happening in the Bacon workshop
 ### See https://www.youtube.com/ralphbacon video #182
 #### Direct link to video: https://youtu.be/EHnkoG5vF0M
