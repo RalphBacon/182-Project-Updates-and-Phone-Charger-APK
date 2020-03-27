@@ -1,7 +1,10 @@
 #182 Project Updates and Smart Phone Charger APK
 ### A general catch up on all things happening in the Bacon workshop
+### See https://www.youtube.com/ralphbacon video #182
+#### Direct link to video: https://youtu.be/EHnkoG5vF0M
 
-### First order free! 2-sided PCB just $5 for 10 pieces
+**First order free! 2-sided PCB just $5 for 10 pieces https://PCBWay.com**
+**Global Collaboration for Combating COVID-19 https://www.pcbway.com/activity/c-gift.html**
 ```
 Assembly for 10-pieces just $88.
 PCB Prototyping the easy way - see my video #129 for Hands-On details.
@@ -20,22 +23,23 @@ Why Buy Your Printed Circuit Boards From PCBWay?
 In this video we discuss an eclectic mixture of projects, raning from my Smart Phone Charger (and the HC05 woes) to a vacuum tube preamplifer (no Arduino involved - yet) and more code by Nerd Ralph (Ralph Doncaster).
 
 
-### Product Links (these may be affilliate from which my channel may benefit)
+### Product Links  
+These may be affilliate from which my channel may benefit  
  
-Si4599 N and P Channel 40V (D -S) MOSFET  
+Si4599 N and P Channel 40V (D -S) **dual channel MOSFET**  
 https://www.banggood.com/CJMCU-4599-Si4599-N-and-P-Channel-40V-D-S-MOSFET-Expansion-Board-Module-p-1350610.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-AC/DC 9V Infrared Remote Control Volume Controller (ALPS poteniometer)  
+AC/DC 9V **Infrared Remote Control Volume** Controller (ALPS poteniometer)  
 https://www.banggood.com/ACDC-9V-Infrared-Remote-Control-Volume-Controller-Board-ALPS-Pre-Potentiometer-p-1209049.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-ATtiny13 Development Board  
+**ATtiny13 Development** Board  
 https://www.banggood.com/ATtiny13-Development-Board-Tiny13-AVR-Minimum-System-Learning-p-1460486.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-SPPC bluetooth Serial Adapter Module Replaces HC-05 HC-06 $1.99  
+**SPPC bluetooth Serial Adapter Module** Replaces HC-05 HC-06 $1.99  
 (I've pordered one to see if it is any easier to program!)  
 https://www.banggood.com/SPPC-bluetooth-Serial-Adapter-Module-Wireless-Serial-Communication-from-Machine-AT-05-Replace-HC-05-HC-06-p-1455198.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-Valve/Vacuum Tube HiFi Digital 6J1 Treble Bass Mini Stereo Audio DAC Pre Amplifier  
+**Valve/Vacuum Tube HiFi Pre-Amplifer** Digital 6J1 Treble Bass Mini Stereo Audio DAC  
 https://www.banggood.com/DING-SHINE-HiFi-Digital-6J1-Vacuum-Tube-Treble-Bass-Mini-Stereo-Audio-DAC-Pre-Amplifier-p-1273994.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
 
