@@ -22,6 +22,11 @@ Why Buy Your Printed Circuit Boards From PCBWay?
 ```
 In this video we discuss an eclectic mixture of projects, raning from my Smart Phone Charger (and the HC05 woes) to a vacuum tube preamplifer (no Arduino involved - yet) and more code by Nerd Ralph (Ralph Doncaster).
 
+### Resource Links
+Spence Konde **Mega Tiny Core** for ATTiny412  
+https://github.com/SpenceKonde/megaTinyCore  
+
+
 
 ### Product Links  
 These may be affilliate from which my channel may benefit  
