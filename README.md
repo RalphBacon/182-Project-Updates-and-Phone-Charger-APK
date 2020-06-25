@@ -44,7 +44,7 @@ https://www.banggood.com/ATtiny13-Development-Board-Tiny13-AVR-Minimum-System-Le
 https://s.click.aliexpress.com/e/_d7wF5ma
 
 **SPPC bluetooth Serial Adapter Module** Replaces HC-05 HC-06 $1.99  
-(I've pordered one to see if it is any easier to program!)  
+(I've ordered one to see if it is any easier to program!)  
 https://www.banggood.com/SPPC-bluetooth-Serial-Adapter-Module-Wireless-Serial-Communication-from-Machine-AT-05-Replace-HC-05-HC-06-p-1455198.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
 **Valve/Vacuum Tube HiFi Pre-Amplifer** Digital 6J1 Treble Bass Mini Stereo Audio DAC  
